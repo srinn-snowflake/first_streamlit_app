@@ -9,3 +9,5 @@ streamlit.text('🥬 Kale, Spinich and Rocket Smoothie')
 
 streamlit.text('🐔 Hard Boiled Free_Range Eggs')
 
+streamlit.text ('🦻 Avecado Toast')
+
